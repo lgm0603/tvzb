@@ -229,7 +229,7 @@ NNM家庭理财 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122624
 NBa直播不定时,https://ff.chgdst.com/live/maidi99.m3u8
 NBA直播不定时,https://ff.chgdst.com/live/xiaoling99.m3u8
 
-🎬电影频道#genre#
+🎬电影频道,#genre#
 邵氏影院@代,http://159.75.85.63:35455/douyu/4246519
 邵氏影院@代,http://43.138.170.29:35455/douyu/4246519
 邵氏影院@代,http://mmitv.top:80/test/douyu.php?id=4246519
