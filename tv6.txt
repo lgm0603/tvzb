@@ -174,11 +174,6 @@ CCTV16,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88
 CCTV17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/2/index.m3u8
 CCTV17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225908/2/index.m3u8
 CCTV17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225909/2/index.m3u8
-CCTV4K,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226998/index.m3u8
-CCTV4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
-4KUHD,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
-4KUHD,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
@@ -740,7 +735,7 @@ CHC家庭影院,http://live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CO
 解说_老炮说电影,https://live.metshop.top/huya/15454716
 剧集_武林外传,https://live.metshop.top/huya/21059598
 
-
+🎗MTV音乐,#genre#
 粤语和华语经典歌曲【完整版】,https://vdse.bdstatic.com//2922763f303705ef65c46689578439ea.mp4
 巨星珍藏系列:邓丽君经典歌曲精选1,https://vdse.bdstatic.com//d2b16e989b950ad5db5461066c8dbf46.mp4
 巨星珍藏系列:邓丽君经典歌曲精选2,https://vdse.bdstatic.com//9b36b59762cdf4a47f8c27672b35e343.mp4
