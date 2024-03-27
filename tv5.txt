@@ -393,70 +393,8 @@ CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-673532
 
 CGTN,https://epg.pw/stream/81abe508c7c06deb201d4484769fedcc1c40c4d3134743700d81000d3d55da88.m3u8
 
-📚CETV,#genre#
-CETV-1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
-CETV-2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
-CETV-4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
-CETV-1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV-2,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV-4,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV-2,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1163914262_-21106249/ott.mobaibox.com/PLTV/88888890/224/3221225850/index.m3u8?icpid=88888890&RTS=1687953376&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 
 📡卫视频道,#genre#
-东南卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1481870012_-1505625723/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8?icpid=3&RTS=1674381597&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-东南卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw91318118_1728721263/ott.mobaibox.com/PLTV/3/224/3221228428/index.m3u8?icpid=3&RTS=1674371616&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-东方卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1928465870_439778439/ott.mobaibox.com/PLTV/3/224/3221227732/index.m3u8?icpid=3&RTS=1674386338&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-东方卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1746983786_-1453355574/ott.mobaibox.com/PLTV/3/224/3221227688/index.m3u8?icpid=3&RTS=1674386157&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-东方卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1588003974_1980521361/ott.mobaibox.com/PLTV/3/224/3221228150/index.m3u8?icpid=3&RTS=1674381703&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-东方卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw145917302_1381458537/ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8?icpid=3&RTS=1674371671&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-北京卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw2172392385_-1992157393/ott.mobaibox.com/PLTV/3/224/3221227652/index.m3u8?icpid=3&RTS=1674386582&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-北京卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw1747628339_39925349/ott.mobaibox.com/PLTV/3/224/3221227694/index.m3u8?icpid=3&RTS=1674386158&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-北京卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1929110115_-211355068/ott.mobaibox.com/PLTV/3/224/3221228115/index.m3u8?icpid=3&RTS=1674386339&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-天津卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1929746065_-1403112337/ott.mobaibox.com/PLTV/3/224/3221227741/index.m3u8?icpid=3&RTS=1674386340&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-天津卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1929912988_-881662239/ott.mobaibox.com/PLTV/3/224/3221227756/index.m3u8?icpid=3&RTS=1674386340&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-天津卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw196224632_-1061507187/ott.mobaibox.com/PLTV/3/224/3221228239/index.m3u8?icpid=3&RTS=1674380311&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-天津卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2314153559_1325890662/ott.mobaibox.com/PLTV/3/224/3221228416/index.m3u8?icpid=3&RTS=1674468328&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-安徽卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw197374649_1165238461/ott.mobaibox.com/PLTV/3/224/3221227653/index.m3u8?icpid=3&RTS=1674380312&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-安徽卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1543399939_-344486942/ott.mobaibox.com/PLTV/3/224/3221227759/index.m3u8?icpid=3&RTS=1674385953&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-安徽卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1748810169_-884235889/ott.mobaibox.com/PLTV/3/224/3221228153/index.m3u8?icpid=3&RTS=1674386159&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-安徽卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444740341_-1046786930/ott.mobaibox.com/PLTV/3/224/3221228327/index.m3u8?icpid=3&RTS=1674369675&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-山东卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1930236170_1276574350/ott.mobaibox.com/PLTV/3/224/3221227671/index.m3u8?icpid=3&RTS=1674386340&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-山东卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1544454067_649511222/ott.mobaibox.com/PLTV/3/224/3221227697/index.m3u8?icpid=3&RTS=1674385954&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-山东卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1930403571_110324233/ott.mobaibox.com/PLTV/3/224/3221228124/index.m3u8?icpid=3&RTS=1674386340&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-山东卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw200246182_1146949014/ott.mobaibox.com/PLTV/3/224/3221228315/index.m3u8?icpid=3&RTS=1674380315&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec25_80&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-广东卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1545504334_-1449102672/ott.mobaibox.com/PLTV/3/224/3221227691/index.m3u8?icpid=3&RTS=1674385955&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-广东卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw201073874_846642633/ott.mobaibox.com/PLTV/3/224/3221227673/index.m3u8?icpid=3&RTS=1674380316&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-广东卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1930705409_-1175138860/ott.mobaibox.com/PLTV/3/224/3221228230/index.m3u8?icpid=3&RTS=1674386341&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-广东卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw201699374_-1286689762/ott.mobaibox.com/PLTV/3/224/3221228312/index.m3u8?icpid=3&RTS=1674380317&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-江苏卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw203226883_1737984932/ott.mobaibox.com/PLTV/3/224/3221227668/index.m3u8?icpid=3&RTS=1674380318&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-江苏卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw1547508542_-1029566303/ott.mobaibox.com/PLTV/3/224/3221227689/index.m3u8?icpid=3&RTS=1674385957&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-江苏卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw203862770_720626694/ott.mobaibox.com/PLTV/3/224/3221228099/index.m3u8?icpid=3&RTS=1674380319&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec05_80&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-江西卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1751397903_-1568649182/ott.mobaibox.com/PLTV/3/224/3221227738/index.m3u8?icpid=3&RTS=1674386161&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-浙江卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw206093655_-1531148960/ott.mobaibox.com/PLTV/3/224/3221227692/index.m3u8?icpid=3&RTS=1674380321&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-浙江卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw2054729514_1244097787/ott.mobaibox.com/PLTV/3/224/3221227744/index.m3u8?icpid=3&RTS=1674386465&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-浙江卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw206230567_-371393331/ott.mobaibox.com/PLTV/3/224/3221228147/index.m3u8?icpid=3&RTS=1674380321&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-浙江卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw206884901_-483589452/ott.mobaibox.com/PLTV/3/224/3221228309/index.m3u8?icpid=3&RTS=1674380322&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-深圳卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw208051491_470444878/ott.mobaibox.com/PLTV/3/224/3221227677/index.m3u8?icpid=3&RTS=1674380323&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-深圳卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw208243183_695881801/ott.mobaibox.com/PLTV/3/224/3221227695/index.m3u8?icpid=3&RTS=1674380323&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-深圳卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw208466077_112536285/ott.mobaibox.com/PLTV/3/224/3221228236/index.m3u8?icpid=3&RTS=1674380323&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
-湖北卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw1550947964_-1647381759/ott.mobaibox.com/PLTV/3/224/3221227665/index.m3u8?icpid=3&RTS=1674385961&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-湖北卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw210191902_-158401056/ott.mobaibox.com/PLTV/3/224/3221227703/index.m3u8?icpid=3&RTS=1674380325&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-湖南卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1752929778_1854170372/ott.mobaibox.com/PLTV/3/224/3221227735/index.m3u8?icpid=3&RTS=1674386163&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-湖南卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw211198975_1777940059/ott.mobaibox.com/PLTV/3/224/3221227698/index.m3u8?icpid=3&RTS=1674380326&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-湖南卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw211363997_202961133/ott.mobaibox.com/PLTV/3/224/3221228227/index.m3u8?icpid=3&RTS=1674380326&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb16_80&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-湖南卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw211841812_-1243690554/ott.mobaibox.com/PLTV/3/224/3221228413/index.m3u8?icpid=3&RTS=1674380327&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-辽宁卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1932285680_928895632/ott.mobaibox.com/PLTV/3/224/3221227676/index.m3u8?icpid=3&RTS=1674386342&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-辽宁卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1932493433_-7314784/ott.mobaibox.com/PLTV/3/224/3221227700/index.m3u8?icpid=3&RTS=1674386342&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-辽宁卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw514415942_-407592699/ott.mobaibox.com/PLTV/3/224/3221228162/index.m3u8?icpid=3&RTS=1674380629&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-辽宁卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw3908751839_-1834795745/ott.mobaibox.com/PLTV/3/224/3221228310/index.m3u8?icpid=3&RTS=1674371139&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-重庆卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw515202699_-176956124/ott.mobaibox.com/PLTV/3/224/3221227729/index.m3u8?icpid=3&RTS=1674380630&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-黑龙江卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw516023873_-290665544/ott.mobaibox.com/PLTV/3/224/3221227753/index.m3u8?icpid=3&RTS=1674380631&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-黑龙江卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1754072820_1199010569/ott.mobaibox.com/PLTV/3/224/3221227662/index.m3u8?icpid=3&RTS=1674386164&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-黑龙江卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw2055834867_664272756/ott.mobaibox.com/PLTV/3/224/3221228233/index.m3u8?icpid=3&RTS=1674386466&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-黑龙江卫视 HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw516667270_434053295/ott.mobaibox.com/PLTV/3/224/3221228295/index.m3u8?icpid=3&RTS=1674380632&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-
-
 北京卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
