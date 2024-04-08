@@ -67,7 +67,6 @@ CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
 纪实人文,https://itv.lat/tv/live.php?&line=1&id=shjsrw
 动漫秀场,https://itv.lat/tv/live.php?&line=1&id=dmxc
 哈哈炫动,https://itv.lat/tv/live.php?&line=1&id=hhxd
-欢笑剧场,https://itv.lat/tv/live.php?&line=1&id=hxjc
 都市剧场,https://itv.lat/tv/live.php?&line=1&id=dsjc
 五星体育,https://itv.lat/tv/live.php?&line=1&id=wxty
 劲爆体育,https://itv.lat/tv/live.php?&line=1&id=jbty
