@@ -137,7 +137,6 @@ ELEv体育,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF279806
 风云IPV6,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 咪足IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-Red BullTV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 JJ斗地主,http://mmitv.top:80/test/douyu.php?id=488743
 JJ斗地主,http://159.75.85.63:35455/douyu/488743
