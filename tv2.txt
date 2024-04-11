@@ -119,27 +119,6 @@ NewTV中国功夫,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 西安新闻,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225993/index.m3u8
 咪咕音乐,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
 
-地方,#genre#
-上海新闻综合,https://itv.lat/tv/live.php?&line=1&id=shxwzh
-上海都市,https://itv.lat/tv/live.php?&line=1&id=shds
-上海ICS外语,https://itv.lat/tv/live.php?&line=1&id=shics
-东方影视,https://itv.lat/tv/live.php?&line=1&id=dfys
-七彩戏剧,https://itv.lat/tv/live.php?&line=1&id=qcxj
-第一财经,https://itv.lat/tv/live.php?&line=1&id=dycj
-法治天地,https://itv.lat/tv/live.php?&line=1&id=fztd
-东方财经,https://itv.lat/tv/live.php?&line=1&id=dfcj
-上海教育,https://itv.lat/tv/live.php?&line=1&id=shjy
-浦东电视台,https://itv.lat/tv/live.php?&line=1&id=pdtv
-福建综合,https://itv.lat/tv/live.php?&line=1&id=fjzh
-福建新闻,https://itv.lat/tv/live.php?&line=1&id=fjxw
-福建电视剧,https://itv.lat/tv/live.php?&line=1&id=fjdsj
-福建文体,https://itv.lat/tv/live.php?&line=1&id=fjwt
-福建少儿,https://itv.lat/tv/live.php?&line=1&id=fjse
-福建旅游,https://itv.lat/tv/live.php?&line=1&id=fjly
-福建经济,https://itv.lat/tv/live.php?&line=1&id=fjjj
-福建公共,https://itv.lat/tv/live.php?&line=1&id=fjgg
-福建教育,https://itv.lat/tv/live.php?&line=1&id=fjjy
-
 百视,#genre#
 看天下精选,https://itv.lat/tv/live.php?&line=1&id=ktxjx
 华语影院,https://itv.lat/tv/live.php?&line=1&id=hyyy
