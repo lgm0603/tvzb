@@ -97,18 +97,6 @@ NewTV中国功夫,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 天津卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225972/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
-兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-风云.剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-风云.音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-第一.剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-女性.时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-风云.足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 黑龙江都市,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 黑龙江公共,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
@@ -117,7 +105,6 @@ NewTV中国功夫,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 黑龙江影视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
 台球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 西安新闻,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225993/index.m3u8
-咪咕音乐,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
 
 浙江频道,#genre#
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
