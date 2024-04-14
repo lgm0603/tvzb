@@ -149,9 +149,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 足球直播1,https://pull.niues.live/live/stream-9911957_lsd.m3u8?
 
 🎬电影频道,#genre#
-CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 邵氏影院@代,http://159.75.85.63:35455/douyu/4246519
 邵氏影院@代,http://43.138.170.29:35455/douyu/4246519
 邵氏影院@代,http://mmitv.top:80/test/douyu.php?id=4246519
