@@ -155,7 +155,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 峨眉电影电信,http://182.150.48.83:8888/newlive/live/hls/54/live.m3u8
 重温经典@代,http://lnsec.6655.la:9001/stream/channel/0ce532efd6456670311e6a64666637d0?profile=webtv-h264-aac-matroska
 怀旧经典@代,http://43.138.170.29:35455/douyu/7822994
-梨园频道联通,http://120.7.30.152:2024/live/梨园频道/index.m3u8
 梨园频道ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 黑莓电影@代,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
 黑莓动画@代,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/1.m3u8
