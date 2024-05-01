@@ -274,27 +274,18 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 🎬电影频道👉全网,#genre#
-CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 邵氏影院@代,http://159.75.85.63:35455/douyu/4246519
 邵氏影院@代,https://www.goodiptv.club/douyu/4246519
 邵氏影院@代,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院@代,http://www.goodiptv.club/douyu/4246519
 新白娘子传奇,https://live.metshop.top/yy/1354490667
 新白娘子修复,https://live.metshop.top/yy/1354930969
-美亚电影@台,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8 
-金马影院@代,http://tvbox6.com/tv/yximgs.php?id=65
-星光视界@代,http://cfss.cc/cdn/yy/1353422557.flv
 网神影厅@代,https://www.goodiptv.club/douyu/508118
-长影频道@代,http://119.54.12.35:9999/hls/28/index.m3u8
 1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a
 1905电影(国际),http://xxw.me0.cn/1905dy.php?id=1905b
 重温经典@代,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典@代,http://mywlkj.ddns.net:754/tv/cwjd.m3u8#http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=635
 重温经典@代,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-真武侠频道,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/1199632572132-1199632572132-7318565434771983384-2399265267720-10057-A-1703986510-1.flv
-北京淘精彩,http://218.241.192.50:8808/udp/239.3.1.178:8001
 北京萌宠TV,http://218.241.192.50:8808/udp/239.3.1.102:8001
 北京淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001
 北京淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
@@ -302,7 +293,6 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 北京淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
 电影星爷@代,http://cfss.cc/cdn/hy/11342412.flv
 周星驰典@代,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
-红色轮播@代,http://mywlkj.ddns.net:754/tv/migu.php?id=hslbt
 绝版电影@代,https://lunbo.freetv.top/yy/1455988450
 绝版电影@部,https://lunbo.freetv.top/yy/1355263385
 特辑电影@代,https://www.goodiptv.club/douyu/3637778
@@ -373,7 +363,6 @@ CCtv6影院代,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 🎬歪歪轮播👉全网,#genre#
 
 超级鬼片,https://lunbo.freetv.top/yy/1355641195
-经典鬼片,https://lunbo.freetv.top/yy/29460894
 恐怖电影,https://lunbo.freetv.top/yy/24066336
 刘德华,http://43.138.170.29:35455/yy/1382745111
 周星驰,http://43.138.170.29:35455/yy/1354658049
@@ -387,7 +376,6 @@ CCtv6影院代,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 李连杰,http://43.138.170.29:35455/yy/74613175
 洪金宝,http://43.138.170.29:35455/yy/1354924839
 香港电影,http://43.138.170.29:35455/yy/1382736910
-经典电影,http://43.138.170.29:35455/yy/1450556636
 电影2,http://43.138.170.29:35455/yy/1354889048
 经典鬼片,http://43.138.170.29:35455/yy/1463783198
 经典鬼片,http://43.138.170.29:35455/yy/29460894
