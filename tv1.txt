@@ -278,12 +278,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 邵氏影院@代,https://www.goodiptv.club/douyu/4246519
 邵氏影院@代,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院@代,http://www.goodiptv.club/douyu/4246519
-重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
-经典电影频道,https://ali.hlspull.yximgs.com/live/asdfg32522.flv 
-经典影院频道,https://ali.hlspull.yximgs.com/live/asdfg32516.flv 
-经典功夫频道,http://cfss.cc/cdn/yy/1355002394.flv
-龙腾功夫频道,http://cfss.cc/cdn/yy/1356261006.flv
-龙腾功夫频道,http://live.dxms.top:80/dwy/ltgft.php
+重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典频道,http://live.dxms.top:80/dwy/cwjd.php
 经典影院频道,http://live.dxms.top:80/dwy/jdyst.php
 经典怀旧频道,http://live.dxms.top:80/dwy/jdhj.php
