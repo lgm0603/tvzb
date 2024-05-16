@@ -273,6 +273,86 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 穿越火线,http://tc-tct.douyucdn2.cn:80/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 穿越火线,http://112.83.136.141:80/live/605964rzzgGEOZHr.flv?302_type=cold_aggr&_session_id=2376164747.n.cn-069f7p.14re_26504&cb_retry=0&did=d010b07dcb997ada9934081c873542f0&domain=tc-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Ftc-tct.douyucdn2.cn%2Fdyliveflv1%2F605964rzzgGEOZHr.flv%3FwsAuth%3D43ef2d796067cbec9c238c73235a1005%26token%3Dcpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964%26logo%3D0%26expire%3D0%26did%3Dd010b07dcb997ada9934081c873542f0%26origin%3Dtct%26vhost%3Dplay1&logo=0&manage_ip=&mir=true&node_id=&origin=tct&pro_type=http&redirect_from=pod.cn-069f7p.14re.nss&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&vhost=tc-tct.douyucdn2.cn&wsAuth=43ef2d796067cbec9c238c73235a1005
 跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+精品轮播,#genre#
+综合频道1,http://zby.xjqxz.top/zh01/live.m3u8
+综合频道2,http://zby.xjqxz.top/zh02/live.m3u8
+综合频道3,http://zby.xjqxz.top/zh03/live.m3u8
+综合频道4,http://zby.xjqxz.top/zh04/live.m3u8
+综合频道5,http://zby.xjqxz.top/zh05/live.m3u8
+综合频道6,http://zby.xjqxz.top/zh06/live.m3u8
+综合频道7,http://zby.xjqxz.top/zh07/live.m3u8
+综合频道8,http://zby.xjqxz.top/zh08/live.m3u8
+综合频道9,http://zby.xjqxz.top/zh09/live.m3u8
+综合频道10,http://zby.xjqxz.top/zh10/live.m3u8
+综合频道11,http://zby.xjqxz.top/zh11/live.m3u8
+综合频道12,http://zby.xjqxz.top/zh12/live.m3u8
+综合频道13,http://zby.xjqxz.top/zh13/live.m3u8
+综合频道14,http://zby.xjqxz.top/zh14/live.m3u8
+综合频道15,http://zby.xjqxz.top/zh15/live.m3u8
+港片1轮播,http://zby.xjqxz.top/hkdy1/live.m3u8
+港片2轮播,http://zby.xjqxz.top/hkdy2/live.m3u8
+国产院线1,http://zby.xjqxz.top/live18/live.m3u8
+国产院线2,http://zby.xjqxz.top/gcwx2/live.m3u8
+国产院线3,http://zby.xjqxz.top/gcwx3/live.m3u8
+国产院线4,http://zby.xjqxz.top/gcwx4/live.m3u8
+国产院线5,http://zby.xjqxz.top/gcwx5/live.m3u8
+周星驰专辑轮播,http://zby.xjqxz.top/live12/live.m3u8
+李连杰专辑轮播,http://zby.xjqxz.top/lljdy/live.m3u8
+成龙专辑轮播,http://zby.xjqxz.top/cldy/live.m3u8
+好莱坞大片1,http://zby.xjqxz.top/hlwdy1/live.m3u8
+中外经典喜剧轮播,http://zby.xjqxz.top/live13/live.m3u8
+抗战专用频道,http://zby.xjqxz.top/kzzypd/live.m3u8
+谍战专用频道,http://zby.xjqxz.top/dzzypd/live.m3u8
+谍战专用频道2,http://zby.xjqxz.top/dzzypd2/live.m3u8
+谍战专用频道3,http://zby.xjqxz.top/dzzypd3/live.m3u8
+谍战专用频道4,http://zby.xjqxz.top/dzzypd4/live.m3u8
+谍战专用频道5,http://zby.xjqxz.top/dzzypd5/live.m3u8
+古装武侠剧,http://zby.xjqxz.top/gzwxj/live.m3u8
+古装电视剧1,http://zby.xjqxz.top/gzdsj1/live.m3u8
+古装电视剧2,http://zby.xjqxz.top/gzdsj2/live.m3u8
+古装电视剧3,http://zby.xjqxz.top/gzdsj3/live.m3u8
+古装电视剧4,http://zby.xjqxz.top/gzdsj4/live.m3u8
+古装电视剧5,http://zby.xjqxz.top/gzdsj5/live.m3u8
+都市电视剧1,http://zby.xjqxz.top/dsdsj1/live.m3u8
+都市电视剧2,http://zby.xjqxz.top/dsdsj2/live.m3u8
+都市电视剧3,http://zby.xjqxz.top/dsdsj3/live.m3u8
+破案警匪,http://zby.xjqxz.top/pajf/live.m3u8
+寻情记,http://zby.xjqxz.top/xqj/live.m3u8
+今日说法,http://zby.xjqxz.top/jrsf/live.m3u8
+法治在线,http://zby.xjqxz.top/fzzx/live.m3u8
+天网,http://zby.xjqxz.top/tw/live.m3u8
+探索发现,http://zby.xjqxz.top/tsfx/live.m3u8
+纪录片1,http://zby.xjqxz.top/jlp1/live.m3u8
+007全集轮播,http://zby.xjqxz.top/live5/live.m3u8
+碟中碟全集轮播,http://zby.xjqxz.top/live6/live.m3u8
+哈利·波特全集轮播,http://zby.xjqxz.top/live7/live.m3u8
+大决战合集,http://zby.xjqxz.top/live11/live.m3u8
+精彩电视剧,http://zby.xjqxz.top/dsj/live.m3u8
+长安十二时辰,http://zby.xjqxz.top/casrsc/live.m3u8
+三生三世枕上书,http://zby.xjqxz.top/sssszss/live.m3u8
+狂飙,http://zby.xjqxz.top/live9/live.m3u8
+水浒传,http://zby.xjqxz.top/shz/live.m3u8
+琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
+警察荣誉,http://zby.xjqxz.top/live16/live.m3u8
+后宫·甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
+武林外传,http://zby.xjqxz.top/live10/live.m3u8
+知否知否,http://zby.xjqxz.top/zfzf/live.m3u8
+风吹半夏,http://zby.xjqxz.top/fcbx/live.m3u8
+幸福到万家,http://zby.xjqxz.top/xfdwj/live.m3u8
+梦华录,http://zby.xjqxz.top/mhl/live.m3u8
+云襄传,http://zby.xjqxz.top/yxz/live.m3u8
+去有风的地方,http://zby.xjqxz.top/qyfddf/live.m3u8
+大博弈,http://zby.xjqxz.top/dby/live.m3u8
+唐朝诡事录,http://zby.xjqxz.top/tcgsl/live.m3u8
+潜伏在黎明之前,http://zby.xjqxz.top/qfzlmzq/live.m3u8
+少年歌行,http://zby.xjqxz.top/sngx/live.m3u8
+三体,http://zby.xjqxz.top/st/live.m3u8
+卿卿日常,http://zby.xjqxz.top/qqrc/live.m3u8
+女士的品格,http://zby.xjqxz.top/nsdpg/live.m3u8
+向风而行,http://zby.xjqxz.top/xfex/live.m3u8
+大秦帝国之裂变,http://zby.xjqxz.top/dqdgzlb/live.m3u8
+康熙微服私访记,http://zby.xjqxz.top/kxwfxhj/live.m3u8
+隋唐英雄,http://zby.xjqxz.top/styx/live.m3u8
 🎬电影频道👉全网,#genre#
 邵氏影院@代,http://159.75.85.63:35455/douyu/4246519
 邵氏影院@代,https://www.goodiptv.club/douyu/4246519
